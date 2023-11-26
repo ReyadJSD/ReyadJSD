@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReyadJSD
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I completed the deploma at Enterprise System Analysis & Design with Java
 - 💞️ I’m looking to collaborate on Software Engineer
 
 
